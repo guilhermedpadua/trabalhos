@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619407453 source:c:\users\emanoel lucas\documents\lde\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1619407272 c:\users\emanoel lucas\documents\lde\lista.h
+	<stdlib.h>
+
+1619407459 source:c:\users\emanoel lucas\documents\lde\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

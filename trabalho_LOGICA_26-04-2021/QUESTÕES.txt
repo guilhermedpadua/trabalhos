@@ -1,0 +1,7 @@
+1ª) Faça um programa em C que leia escreva a matricula, nome, idade e sexo de um numero inderteminado de alunos. Ao final imprima o total de alunos lidos, a quantidade de alunos do sexo masculino com idade superior a 25 anos, e a média de alunos com idade inferior a 20 anos.
+
+2ª) Faça um programa na linguagem C para calcular a área de N circulos. Fórmula: area = pi * raio. A sequencia termina quando o usuário entrar com um valor negativo para o raio (esse valor não deve fazer parte de nenhum dos cálculos). Além do cálculo das áreas, calcule a média das áreas fornecidas.
+
+3ª) O departamento de trânsito do estado anotou os dados de acidentes de trânsito do último ano. Para cada motorista envolvido no acidente, tem-se as seguintes informações: Ano de nascimento; Sexo (M - Masculino, F - feminino); Procedência (0 - capital, 1 - Interior, 2 - Outro estado); Faça um programa em C que: a) Calcule a porcentagem de motoristas com menos de 21 anos; b) calcule quantas mulheres são da capital; c) calcule quantos motoristas do interior do estado tem idade maior que 60 anos; d) verifique se existe alguma mulher com idade maior que 60 anos.
+
+4ª) Para cada nota de compra, tem-se o nome do produto comprato, o valor e o imposto. Faça um programa na linguagem C que escreva o valor total bruto, o imposto total cobrado e o valor total líquido de todas as notas. Considere 10 notas.
