@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -26,7 +27,7 @@ int main()
                     vetor = realloc(vetor, sizeof(char) * (comprimento_vetor + 2));
                     comprimento_vetor = comprimento_vetor + 2;
                     vetor[0] = matriz[i][0];
-                    vetor[1] = matriz[i][2];
+                    vetor[1] = '\0';
                 }else{
                     vetor = realloc(vetor, sizeof(char) * (comprimento_vetor + 1));
                     comprimento_vetor++;
