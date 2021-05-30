@@ -11,7 +11,8 @@ int main()
     for(int i = 0; i < N; i++){
         qt_asteriscos = 0;
         while ((carac = getchar()) != '\n'){
-            qt_asteriscos++;
+            if(carac == '*')
+                qt_asteriscos++;
         }
         vetor[i] = qt_asteriscos;
     }
